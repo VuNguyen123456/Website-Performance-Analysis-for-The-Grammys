@@ -32,8 +32,6 @@ Grammys-Website-Analytics/
 │   ├── mobile_users.csv
 │   ├── ra_live_web_analytics.csv
 │   └── tra_age_demographics.csv
-└── figs/
-    └── TheAMAs.png
 ```
 
 ## 🔧 Setup & Installation
